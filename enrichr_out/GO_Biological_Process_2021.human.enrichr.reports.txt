@@ -1,0 +1,341 @@
+Gene_set	Term	Overlap	P-value	Adjusted P-value	Old P-value	Old Adjusted P-value	Odds Ratio	Combined Score	Genes
+GO_Biological_Process_2021	mitotic spindle organization (GO:0007052)	11/157	7.721420e-19	2.625283e-16	0	0	1.660381e+02	6.924637e+03	CDC20;CENPF;CCNB1;CHEK2;PLK1;BIRC5;KIF2C;KIF11;CENPA;AURKB;AURKA
+GO_Biological_Process_2021	microtubule cytoskeleton organization involved in mitosis (GO:1902850)	10/128	1.409579e-17	2.396285e-15	0	0	1.683220e+02	6.531005e+03	CDC20;CENPF;CCNB1;PLK1;BIRC5;KIF2C;KIF11;CENPA;AURKB;AURKA
+GO_Biological_Process_2021	anaphase-promoting complex-dependent catabolic process (GO:0031145)	7/84	1.324083e-12	1.500628e-10	0	0	1.391818e+02	3.806665e+03	CDC20;CCNB1;UBE2C;PLK1;CDK1;AURKB;AURKA
+GO_Biological_Process_2021	regulation of cell cycle process (GO:0010564)	7/106	7.035557e-12	5.980223e-10	0	0	1.081329e+02	2.776857e+03	PLK1;CHEK1;KIF11;KIF20A;MKI67;AURKB;AURKA
+GO_Biological_Process_2021	mitotic nuclear membrane disassembly (GO:0007077)	4/12	3.579296e-10	2.296335e-08	0	0	6.241250e+02	1.357515e+04	CCNB2;CCNB1;PLK1;CDK1
+GO_Biological_Process_2021	regulation of mitotic cell cycle phase transition (GO:1901990)	7/188	4.052355e-10	2.296335e-08	0	0	5.890055e+01	1.273816e+03	CDC20;CENPF;CCNB1;UBE2C;PLK1;CDK1;AURKA
+GO_Biological_Process_2021	nuclear membrane disassembly (GO:0051081)	4/14	7.228970e-10	3.511214e-08	0	0	4.992500e+02	1.050809e+04	CCNB2;CCNB1;PLK1;CDK1
+GO_Biological_Process_2021	mitotic cell cycle phase transition (GO:0044772)	7/209	8.499457e-10	3.612269e-08	0	0	5.272125e+01	1.101128e+03	CCNB2;CCNB1;UBE2C;CHEK2;PLK1;CDK1;AURKA
+GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest (GO:0006977)	5/56	2.151752e-09	7.817499e-08	0	0	1.302549e+02	2.599495e+03	CCNB1;PCNA;CHEK2;CDK1;AURKA
+GO_Biological_Process_2021	G2/M transition of mitotic cell cycle (GO:0000086)	6/130	2.414803e-09	7.817499e-08	0	0	6.862673e+01	1.361667e+03	CCNB2;CCNB1;CHEK2;PLK1;CDK1;AURKA
+GO_Biological_Process_2021	cell cycle G2/M phase transition (GO:0044839)	6/131	2.529191e-09	7.817499e-08	0	0	6.807429e+01	1.347555e+03	CCNB2;CCNB1;CHEK2;PLK1;CDK1;AURKA
+GO_Biological_Process_2021	mitotic G1 DNA damage checkpoint signaling (GO:0031571)	5/65	4.626819e-09	1.310932e-07	0	0	1.106667e+02	2.123848e+03	CCNB1;PCNA;CHEK2;CDK1;AURKA
+GO_Biological_Process_2021	DNA damage response, signal transduction by p53 class mediator (GO:0030330)	5/74	8.972790e-09	2.346730e-07	0	0	9.618841e+01	1.782282e+03	CCNB1;PCNA;CHEK2;CDK1;AURKA
+GO_Biological_Process_2021	regulation of mitotic cell cycle (GO:0007346)	6/178	1.596010e-08	3.774587e-07	0	0	4.935548e+01	8.860876e+02	CDC20;CCNB1;UBE2C;PLK1;CDK1;MKI67
+GO_Biological_Process_2021	proteasome-mediated ubiquitin-dependent protein catabolic process (GO:0043161)	7/321	1.665259e-08	3.774587e-07	0	0	3.372415e+01	6.040232e+02	CDC20;CCNB1;UBE2C;PLK1;CDK1;AURKB;AURKA
+GO_Biological_Process_2021	regulation of cell cycle phase transition (GO:1901987)	5/95	3.185242e-08	6.768639e-07	0	0	7.366667e+01	1.271645e+03	CDC20;CCNB1;UBE2C;PLK1;CDK1
+GO_Biological_Process_2021	phosphorylation (GO:0016310)	7/400	7.521191e-08	1.504238e-06	0	0	2.683676e+01	4.402022e+02	CHEK2;PLK1;CHEK1;CDK1;BIRC5;AURKB;AURKA
+GO_Biological_Process_2021	chromosome condensation (GO:0030261)	4/45	1.054941e-07	1.992666e-06	0	0	1.215793e+02	1.953124e+03	TOP2A;CCNB1;PLK1;CDK1
+GO_Biological_Process_2021	positive regulation of ubiquitin protein ligase activity (GO:1904668)	3/12	1.870300e-07	3.346852e-06	0	0	3.915882e+02	6.066484e+03	CDC20;UBE2C;PLK1
+GO_Biological_Process_2021	regulation of mitotic nuclear division (GO:0007088)	4/57	2.775436e-07	4.606817e-06	0	0	9.399528e+01	1.419074e+03	CCNB1;CHEK1;MKI67;AURKA
+GO_Biological_Process_2021	regulation of G2/M transition of mitotic cell cycle (GO:0010389)	5/149	3.039287e-07	4.606817e-06	0	0	4.591667e+01	6.890472e+02	CENPF;CCNB1;PLK1;CDK1;AURKA
+GO_Biological_Process_2021	mitotic DNA damage checkpoint signaling (GO:0044773)	4/59	3.193736e-07	4.606817e-06	0	0	9.056818e+01	1.354620e+03	CHEK2;PLK1;CHEK1;CDK1
+GO_Biological_Process_2021	protein phosphorylation (GO:0006468)	7/496	3.240444e-07	4.606817e-06	0	0	2.146248e+01	3.207007e+02	CHEK2;PLK1;CHEK1;CDK1;BIRC5;AURKB;AURKA
+GO_Biological_Process_2021	regulation of cell cycle (GO:0051726)	6/296	3.251871e-07	4.606817e-06	0	0	2.909852e+01	4.346989e+02	CCNB2;CENPF;CCNB1;PLK1;CHEK1;BIRC5
+GO_Biological_Process_2021	regulation of signal transduction by p53 class mediator (GO:1901796)	5/156	3.818484e-07	5.193138e-06	0	0	4.377263e+01	6.468825e+02	CHEK2;CHEK1;CDK1;AURKB;AURKA
+GO_Biological_Process_2021	protein localization to chromosome, centromeric region (GO:0071459)	3/17	5.762613e-07	7.535725e-06	0	0	2.516723e+02	3.615701e+03	CDK1;CENPA;AURKB
+GO_Biological_Process_2021	regulation of chromosome segregation (GO:0051983)	3/18	6.910744e-07	8.693634e-06	0	0	2.348824e+02	3.331810e+03	KIF2C;MKI67;AURKB
+GO_Biological_Process_2021	cytoskeleton-dependent cytokinesis (GO:0061640)	4/72	7.159463e-07	8.693634e-06	0	0	7.320588e+01	1.035838e+03	PLK1;KIF20A;CENPA;AURKB
+GO_Biological_Process_2021	mitotic nuclear division (GO:0140014)	4/74	7.997087e-07	9.375895e-06	0	0	7.110714e+01	9.982745e+02	UBE2C;CHEK2;PLK1;KIF11
+GO_Biological_Process_2021	regulation of cell division (GO:0051302)	4/76	8.905528e-07	1.009293e-05	0	0	6.912500e+01	9.630096e+02	PLK1;KIF20A;AURKB;AURKA
+GO_Biological_Process_2021	spindle assembly checkpoint signaling (GO:0071173)	3/21	1.124238e-06	1.124238e-05	0	0	1.957059e+02	2.680859e+03	CDC20;CENPF;PLK1
+GO_Biological_Process_2021	regulation of ubiquitin protein ligase activity (GO:1904666)	3/21	1.124238e-06	1.124238e-05	0	0	1.957059e+02	2.680859e+03	CDC20;UBE2C;PLK1
+GO_Biological_Process_2021	mitotic spindle assembly checkpoint signaling (GO:0007094)	3/21	1.124238e-06	1.124238e-05	0	0	1.957059e+02	2.680859e+03	CDC20;CENPF;PLK1
+GO_Biological_Process_2021	mitotic spindle checkpoint signaling (GO:0071174)	3/21	1.124238e-06	1.124238e-05	0	0	1.957059e+02	2.680859e+03	CDC20;CENPF;PLK1
+GO_Biological_Process_2021	negative regulation of mitotic metaphase/anaphase transition (GO:0045841)	3/22	1.300921e-06	1.229137e-05	0	0	1.853963e+02	2.512572e+03	CDC20;CENPF;PLK1
+GO_Biological_Process_2021	regulation of cytokinesis (GO:0032465)	4/84	1.332483e-06	1.229137e-05	0	0	6.218750e+01	8.413015e+02	PLK1;KIF20A;AURKB;AURKA
+GO_Biological_Process_2021	modification-dependent protein catabolic process (GO:0019941)	5/201	1.337590e-06	1.229137e-05	0	0	3.364626e+01	4.550536e+02	CDC20;UBE2C;PLK1;AURKB;AURKA
+GO_Biological_Process_2021	regulation of cell cycle G2/M phase transition (GO:1902749)	4/85	1.397389e-06	1.250295e-05	0	0	6.141667e+01	8.279523e+02	CENPF;PLK1;CDK1;AURKA
+GO_Biological_Process_2021	regulation of mitotic metaphase/anaphase transition (GO:0030071)	3/26	2.190779e-06	1.909910e-05	0	0	1.531228e+02	1.995381e+03	CCNB1;UBE2C;PLK1
+GO_Biological_Process_2021	mitotic chromosome condensation (GO:0007076)	3/27	2.463059e-06	2.093600e-05	0	0	1.467353e+02	1.894955e+03	CCNB1;PLK1;CDK1
+GO_Biological_Process_2021	mitotic sister chromatid segregation (GO:0000070)	4/102	2.901042e-06	2.405742e-05	0	0	5.071939e+01	6.466945e+02	CCNB1;PLK1;CDK1;KIF2C
+GO_Biological_Process_2021	positive regulation of ubiquitin-protein transferase activity (GO:0051443)	3/31	3.775487e-06	3.056346e-05	0	0	1.257479e+02	1.570212e+03	CDC20;UBE2C;PLK1
+GO_Biological_Process_2021	mitotic G2 DNA damage checkpoint signaling (GO:0007095)	3/33	4.576828e-06	3.618888e-05	0	0	1.173529e+02	1.442796e+03	PLK1;CHEK1;CDK1
+GO_Biological_Process_2021	DNA metabolic process (GO:0006259)	5/277	6.426814e-06	4.966175e-05	0	0	2.415196e+01	2.887375e+02	TOP2A;PCNA;CHEK1;CDK1;TYMS
+GO_Biological_Process_2021	mitotic spindle assembly (GO:0090307)	3/44	1.103233e-05	8.335535e-05	0	0	8.582066e+01	9.796154e+02	CHEK2;KIF11;AURKB
+GO_Biological_Process_2021	mitotic G2/M transition checkpoint (GO:0044818)	3/45	1.181282e-05	8.731216e-05	0	0	8.377311e+01	9.505169e+02	PLK1;CHEK1;CDK1
+GO_Biological_Process_2021	mitotic cytokinesis (GO:0000281)	3/49	1.529849e-05	1.106699e-04	0	0	7.647315e+01	8.479156e+02	PLK1;KIF20A;CENPA
+GO_Biological_Process_2021	mitotic nuclear membrane organization (GO:0101024)	3/51	1.727016e-05	1.198337e-04	0	0	7.327941e+01	8.036209e+02	CCNB2;CCNB1;CDK1
+GO_Biological_Process_2021	mitotic nuclear membrane reassembly (GO:0007084)	3/51	1.727016e-05	1.198337e-04	0	0	7.327941e+01	8.036209e+02	CCNB2;CCNB1;CDK1
+GO_Biological_Process_2021	nuclear membrane reassembly (GO:0031468)	3/54	2.053066e-05	1.396085e-04	0	0	6.895848e+01	7.443096e+02	CCNB2;CCNB1;CDK1
+GO_Biological_Process_2021	ubiquitin-dependent protein catabolic process (GO:0006511)	5/354	2.103733e-05	1.402489e-04	0	0	1.874976e+01	2.019202e+02	CDC20;UBE2C;PLK1;AURKB;AURKA
+GO_Biological_Process_2021	positive regulation of mitotic cell cycle phase transition (GO:1901992)	3/58	2.547498e-05	1.665672e-04	0	0	6.393048e+01	6.762447e+02	CCNB1;UBE2C;CDK1
+GO_Biological_Process_2021	regulation of metaphase/anaphase transition of cell cycle (GO:1902099)	2/8	2.650430e-05	1.668789e-04	0	0	3.698889e+02	3.897964e+03	UBE2C;PLK1
+GO_Biological_Process_2021	DNA damage induced protein phosphorylation (GO:0006975)	2/8	2.650430e-05	1.668789e-04	0	0	3.698889e+02	3.897964e+03	CHEK2;CHEK1
+GO_Biological_Process_2021	kinetochore assembly (GO:0051382)	2/9	3.405660e-05	2.067722e-04	0	0	3.170317e+02	3.261460e+03	CENPF;CENPA
+GO_Biological_Process_2021	regulation of mitotic centrosome separation (GO:0046602)	2/9	3.405660e-05	2.067722e-04	0	0	3.170317e+02	3.261460e+03	CHEK1;KIF11
+GO_Biological_Process_2021	negative regulation of G2/M transition of mitotic cell cycle (GO:0010972)	3/66	3.758775e-05	2.242077e-04	0	0	5.578992e+01	5.684341e+02	CHEK1;AURKB;AURKA
+GO_Biological_Process_2021	cellular protein modification process (GO:0006464)	7/1025	3.913882e-05	2.294345e-04	0	0	1.002977e+01	1.017861e+02	CHEK2;PLK1;CHEK1;CDK1;BIRC5;AURKB;AURKA
+GO_Biological_Process_2021	regulation of intracellular signal transduction (GO:1902531)	5/437	5.754096e-05	3.315920e-04	0	0	1.508333e+01	1.472588e+02	CHEK2;CHEK1;CDK1;AURKB;AURKA
+GO_Biological_Process_2021	cellular response to UV (GO:0034644)	3/77	5.966646e-05	3.381099e-04	0	0	4.747059e+01	4.617341e+02	PCNA;CHEK1;AURKB
+GO_Biological_Process_2021	replicative senescence (GO:0090399)	2/12	6.232516e-05	3.417831e-04	0	0	2.218889e+02	2.148582e+03	CHEK2;CHEK1
+GO_Biological_Process_2021	protein localization to condensed chromosome (GO:1903083)	2/12	6.232516e-05	3.417831e-04	0	0	2.218889e+02	2.148582e+03	CDK1;AURKB
+GO_Biological_Process_2021	regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0000079)	3/82	7.200615e-05	3.886046e-04	0	0	4.445495e+01	4.240451e+02	CCNB2;CCNB1;PLK1
+GO_Biological_Process_2021	kinetochore organization (GO:0051383)	2/13	7.361293e-05	3.910687e-04	0	0	2.017071e+02	1.919584e+03	CENPF;CENPA
+GO_Biological_Process_2021	protein localization to kinetochore (GO:0034501)	2/14	8.583036e-05	4.489588e-04	0	0	1.848889e+02	1.731140e+03	CDK1;AURKB
+GO_Biological_Process_2021	regulation of mitotic sister chromatid separation (GO:0010965)	2/16	1.130474e-04	5.823655e-04	0	0	1.584603e+02	1.440040e+03	UBE2C;PLK1
+GO_Biological_Process_2021	positive regulation of cell cycle process (GO:0090068)	3/101	1.338684e-04	6.793324e-04	0	0	3.580192e+01	3.193049e+02	CCNB1;AURKB;AURKA
+GO_Biological_Process_2021	positive regulation of G2/M transition of mitotic cell cycle (GO:0010971)	2/20	1.785635e-04	8.928173e-04	0	0	1.232222e+02	1.063478e+03	CCNB1;CDK1
+GO_Biological_Process_2021	DNA repair (GO:0006281)	4/298	1.938397e-04	9.551521e-04	0	0	1.673980e+01	1.430998e+02	PCNA;CHEK2;CHEK1;CDK1
+GO_Biological_Process_2021	regulation of protein binding (GO:0043393)	3/118	2.121006e-04	1.030203e-03	0	0	3.048338e+01	2.578421e+02	PLK1;AURKB;AURKA
+GO_Biological_Process_2021	positive regulation of cell cycle G2/M phase transition (GO:1902751)	2/23	2.373444e-04	1.120793e-03	0	0	1.056032e+02	8.813639e+02	CCNB1;CDK1
+GO_Biological_Process_2021	mitotic cell cycle checkpoint signaling (GO:0007093)	2/23	2.373444e-04	1.120793e-03	0	0	1.056032e+02	8.813639e+02	CHEK1;AURKB
+GO_Biological_Process_2021	establishment of mitotic spindle orientation (GO:0000132)	2/24	2.587661e-04	1.205212e-03	0	0	1.007980e+02	8.325496e+02	PLK1;CENPA
+GO_Biological_Process_2021	cellular response to DNA damage stimulus (GO:0006974)	4/350	3.577955e-04	1.643925e-03	0	0	1.418642e+01	1.125770e+02	TOP2A;CHEK2;CHEK1;CDK1
+GO_Biological_Process_2021	establishment of mitotic spindle localization (GO:0040001)	2/29	3.795101e-04	1.720446e-03	0	0	8.211111e+01	6.467588e+02	PLK1;CENPA
+GO_Biological_Process_2021	establishment of spindle orientation (GO:0051294)	2/30	4.063745e-04	1.817991e-03	0	0	7.917460e+01	6.182139e+02	PLK1;CENPA
+GO_Biological_Process_2021	positive regulation of transferase activity (GO:0051347)	3/148	4.127088e-04	1.822351e-03	0	0	2.413996e+01	1.881171e+02	PCNA;PLK1;AURKB
+GO_Biological_Process_2021	regulation of transcription involved in G1/S transition of mitotic cell cycle (GO:0000083)	2/32	4.628054e-04	1.991821e-03	0	0	7.388889e+01	5.673340e+02	PCNA;TYMS
+GO_Biological_Process_2021	DNA damage checkpoint signaling (GO:0000077)	2/32	4.628054e-04	1.991821e-03	0	0	7.388889e+01	5.673340e+02	CHEK2;CHEK1
+GO_Biological_Process_2021	peptidyl-serine phosphorylation (GO:0018105)	3/156	4.813650e-04	2.045801e-03	0	0	2.286851e+01	1.746899e+02	PLK1;CDK1;AURKA
+GO_Biological_Process_2021	protein autophosphorylation (GO:0046777)	3/159	5.088866e-04	2.136067e-03	0	0	2.242534e+01	1.700577e+02	CHEK2;AURKB;AURKA
+GO_Biological_Process_2021	sister chromatid segregation (GO:0000819)	2/34	5.228285e-04	2.141707e-03	0	0	6.926389e+01	5.233758e+02	TOP2A;PLK1
+GO_Biological_Process_2021	protein localization to chromosome (GO:0034502)	2/34	5.228285e-04	2.141707e-03	0	0	6.926389e+01	5.233758e+02	PLK1;CENPA
+GO_Biological_Process_2021	peptidyl-serine modification (GO:0018209)	3/169	6.078714e-04	2.460432e-03	0	0	2.106378e+01	1.559888e+02	PLK1;CDK1;AURKA
+GO_Biological_Process_2021	centromere complex assembly (GO:0034508)	2/37	6.195695e-04	2.478278e-03	0	0	6.331746e+01	4.676935e+02	CENPF;CENPA
+GO_Biological_Process_2021	DNA integrity checkpoint signaling (GO:0031570)	2/39	6.885154e-04	2.690750e-03	0	0	5.988889e+01	4.360494e+02	CHEK2;CHEK1
+GO_Biological_Process_2021	regulation of exit from mitosis (GO:0007096)	2/39	6.885154e-04	2.690750e-03	0	0	5.988889e+01	4.360494e+02	CDC20;UBE2C
+GO_Biological_Process_2021	microtubule bundle formation (GO:0001578)	2/45	9.165787e-04	3.541327e-03	0	0	5.151680e+01	3.603529e+02	PLK1;KIF20A
+GO_Biological_Process_2021	regulation of protein localization to nucleus (GO:1900180)	2/47	9.996316e-04	3.818818e-03	0	0	4.922222e+01	3.400332e+02	PLK1;CDK1
+GO_Biological_Process_2021	mitotic metaphase plate congression (GO:0007080)	2/51	1.176208e-03	4.443452e-03	0	0	4.519501e+01	3.048611e+02	CCNB1;KIF2C
+GO_Biological_Process_2021	signal transduction in response to DNA damage (GO:0042770)	2/52	1.222524e-03	4.567671e-03	0	0	4.428889e+01	2.970384e+02	CHEK2;CHEK1
+GO_Biological_Process_2021	regulation of cyclin-dependent protein kinase activity (GO:1904029)	2/54	1.317751e-03	4.869948e-03	0	0	4.258120e+01	2.823912e+02	CCNB2;CCNB1
+GO_Biological_Process_2021	peptidyl-threonine phosphorylation (GO:0018107)	2/60	1.624077e-03	5.937486e-03	0	0	3.816475e+01	2.451252e+02	CHEK1;CDK1
+GO_Biological_Process_2021	positive regulation of DNA biosynthetic process (GO:2000573)	2/61	1.678125e-03	6.005922e-03	0	0	3.751601e+01	2.397302e+02	PCNA;AURKB
+GO_Biological_Process_2021	regulation of DNA-templated transcription, initiation (GO:2000142)	2/61	1.678125e-03	6.005922e-03	0	0	3.751601e+01	2.397302e+02	CCNB1;CDK1
+GO_Biological_Process_2021	negative regulation of cell cycle process (GO:0010948)	2/64	1.845372e-03	6.468313e-03	0	0	3.569534e+01	2.247048e+02	CHEK1;AURKB
+GO_Biological_Process_2021	regulation of transcription initiation from RNA polymerase II promoter (GO:0060260)	2/64	1.845372e-03	6.468313e-03	0	0	3.569534e+01	2.247048e+02	CCNB1;CDK1
+GO_Biological_Process_2021	positive regulation of cell cycle (GO:0045787)	2/66	1.961104e-03	6.803830e-03	0	0	3.457639e+01	2.155578e+02	CCNB1;CHEK1
+GO_Biological_Process_2021	peptidyl-threonine modification (GO:0018210)	2/67	2.020236e-03	6.938184e-03	0	0	3.404274e+01	2.112195e+02	CHEK1;CDK1
+GO_Biological_Process_2021	positive regulation of protein localization to nucleus (GO:1900182)	2/68	2.080210e-03	7.072713e-03	0	0	3.352525e+01	2.070280e+02	PLK1;CDK1
+GO_Biological_Process_2021	cellular response to light stimulus (GO:0071482)	2/70	2.202676e-03	7.414949e-03	0	0	3.253595e+01	1.990576e+02	PCNA;AURKB
+GO_Biological_Process_2021	positive regulation of cellular protein localization (GO:1903829)	2/71	2.265166e-03	7.550552e-03	0	0	3.206280e+01	1.952659e+02	PLK1;CDK1
+GO_Biological_Process_2021	negative regulation of protein binding (GO:0032091)	2/74	2.457641e-03	8.112601e-03	0	0	3.072222e+01	1.845961e+02	AURKB;AURKA
+GO_Biological_Process_2021	positive regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032436)	2/79	2.795028e-03	9.137590e-03	0	0	2.872006e+01	1.688714e+02	CDC20;PLK1
+GO_Biological_Process_2021	spindle assembly (GO:0051225)	2/84	3.152990e-03	1.020968e-02	0	0	2.696206e+01	1.552854e+02	CHEK2;KIF11
+GO_Biological_Process_2021	G1/S transition of mitotic cell cycle (GO:0000082)	2/85	3.227035e-03	1.025413e-02	0	0	2.663588e+01	1.527885e+02	PCNA;TYMS
+GO_Biological_Process_2021	retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum (GO:0006890)	2/85	3.227035e-03	1.025413e-02	0	0	2.663588e+01	1.527885e+02	KIF2C;KIF11
+GO_Biological_Process_2021	negative regulation of binding (GO:0051100)	2/88	3.454045e-03	1.087385e-02	0	0	2.570284e+01	1.456891e+02	AURKB;AURKA
+GO_Biological_Process_2021	cellular macromolecule biosynthetic process (GO:0034645)	3/314	3.584315e-03	1.118043e-02	0	0	1.116077e+01	6.284840e+01	CHEK1;CDK1;TYMS
+GO_Biological_Process_2021	ciliary basal body-plasma membrane docking (GO:0097711)	2/95	4.011985e-03	1.240068e-02	0	0	2.375986e+01	1.311180e+02	PLK1;CDK1
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen via MHC class II (GO:0019886)	2/98	4.263111e-03	1.305818e-02	0	0	2.301389e+01	1.256042e+02	KIF2C;KIF11
+GO_Biological_Process_2021	response to UV (GO:0009411)	2/99	4.348409e-03	1.320053e-02	0	0	2.277549e+01	1.238519e+02	PCNA;AURKB
+GO_Biological_Process_2021	antigen processing and presentation of peptide antigen via MHC class II (GO:0002495)	2/100	4.434500e-03	1.334274e-02	0	0	2.254195e+01	1.221400e+02	KIF2C;KIF11
+GO_Biological_Process_2021	epithelial cell differentiation (GO:0030855)	2/101	4.521382e-03	1.348482e-02	0	0	2.231313e+01	1.204672e+02	PCNA;CDK1
+GO_Biological_Process_2021	antigen processing and presentation of exogenous peptide antigen (GO:0002478)	2/103	4.697512e-03	1.388830e-02	0	0	2.186909e+01	1.172341e+02	KIF2C;KIF11
+GO_Biological_Process_2021	positive regulation of cellular metabolic process (GO:0031325)	2/105	4.876788e-03	1.413958e-02	0	0	2.144229e+01	1.141430e+02	CCNB1;CDK1
+GO_Biological_Process_2021	positive regulation of attachment of spindle microtubules to kinetochore (GO:0051987)	1/5	4.990441e-03	1.413958e-02	0	0	2.628421e+02	1.393124e+03	CCNB1
+GO_Biological_Process_2021	pyrimidine deoxyribonucleotide biosynthetic process (GO:0009221)	1/5	4.990441e-03	1.413958e-02	0	0	2.628421e+02	1.393124e+03	TYMS
+GO_Biological_Process_2021	apoptotic chromosome condensation (GO:0030263)	1/5	4.990441e-03	1.413958e-02	0	0	2.628421e+02	1.393124e+03	TOP2A
+GO_Biological_Process_2021	positive regulation of deoxyribonuclease activity (GO:0032077)	1/5	4.990441e-03	1.413958e-02	0	0	2.628421e+02	1.393124e+03	PCNA
+GO_Biological_Process_2021	DNA replication (GO:0006260)	2/108	5.151575e-03	1.447550e-02	0	0	2.083229e+01	1.097539e+02	CHEK1;CDK1
+GO_Biological_Process_2021	regulation of protein serine/threonine kinase activity (GO:0071900)	2/111	5.433372e-03	1.514218e-02	0	0	2.025586e+01	1.056383e+02	CCNB2;CCNB1
+GO_Biological_Process_2021	regulation of apoptotic process (GO:0042981)	4/742	5.664299e-03	1.565741e-02	0	0	6.518293e+00	3.372286e+01	TOP2A;PLK1;CDK1;BIRC5
+GO_Biological_Process_2021	negative regulation of cytokinesis (GO:0032466)	1/6	5.985691e-03	1.577624e-02	0	0	2.102632e+02	1.076207e+03	AURKB
+GO_Biological_Process_2021	free ubiquitin chain polymerization (GO:0010994)	1/6	5.985691e-03	1.577624e-02	0	0	2.102632e+02	1.076207e+03	UBE2C
+GO_Biological_Process_2021	regulation of mitotic sister chromatid segregation (GO:0033047)	1/6	5.985691e-03	1.577624e-02	0	0	2.102632e+02	1.076207e+03	CCNB1
+GO_Biological_Process_2021	regulation of mitotic spindle checkpoint (GO:1903504)	1/6	5.985691e-03	1.577624e-02	0	0	2.102632e+02	1.076207e+03	CCNB1
+GO_Biological_Process_2021	histone-serine phosphorylation (GO:0035404)	1/6	5.985691e-03	1.577624e-02	0	0	2.102632e+02	1.076207e+03	AURKB
+GO_Biological_Process_2021	protein localization to nuclear envelope (GO:0090435)	1/6	5.985691e-03	1.577624e-02	0	0	2.102632e+02	1.076207e+03	PLK1
+GO_Biological_Process_2021	negative regulation of programmed cell death (GO:0043069)	3/381	6.146063e-03	1.607432e-02	0	0	9.151261e+00	4.659770e+01	PLK1;CDK1;BIRC5
+GO_Biological_Process_2021	epithelium development (GO:0060429)	2/122	6.525961e-03	1.693761e-02	0	0	1.838889e+01	9.253228e+01	PCNA;CDK1
+GO_Biological_Process_2021	regulation of glial cell differentiation (GO:0045685)	1/7	6.979996e-03	1.732262e-02	0	0	1.752105e+02	8.698689e+02	CDK1
+GO_Biological_Process_2021	cleavage furrow formation (GO:0036089)	1/7	6.979996e-03	1.732262e-02	0	0	1.752105e+02	8.698689e+02	AURKB
+GO_Biological_Process_2021	positive regulation of synaptic plasticity (GO:0031915)	1/7	6.979996e-03	1.732262e-02	0	0	1.752105e+02	8.698689e+02	CDC20
+GO_Biological_Process_2021	Golgi disassembly (GO:0090166)	1/7	6.979996e-03	1.732262e-02	0	0	1.752105e+02	8.698689e+02	CDK1
+GO_Biological_Process_2021	regulation of muscle organ development (GO:0048634)	1/7	6.979996e-03	1.732262e-02	0	0	1.752105e+02	8.698689e+02	CENPF
+GO_Biological_Process_2021	DNA ligation (GO:0006266)	1/7	6.979996e-03	1.732262e-02	0	0	1.752105e+02	8.698689e+02	TOP2A
+GO_Biological_Process_2021	protein modification by small protein conjugation (GO:0032446)	3/409	7.472851e-03	1.841137e-02	0	0	8.507969e+00	4.165909e+01	PCNA;UBE2C;PLK1
+GO_Biological_Process_2021	negative regulation of B cell apoptotic process (GO:0002903)	1/8	7.973357e-03	1.856809e-02	0	0	1.501729e+02	7.255830e+02	AURKB
+GO_Biological_Process_2021	regulation of striated muscle tissue development (GO:0016202)	1/8	7.973357e-03	1.856809e-02	0	0	1.501729e+02	7.255830e+02	CENPF
+GO_Biological_Process_2021	negative regulation of chromosome organization (GO:2001251)	1/8	7.973357e-03	1.856809e-02	0	0	1.501729e+02	7.255830e+02	TOP2A
+GO_Biological_Process_2021	positive regulation of chromosome segregation (GO:0051984)	1/8	7.973357e-03	1.856809e-02	0	0	1.501729e+02	7.255830e+02	CCNB1
+GO_Biological_Process_2021	mitotic spindle elongation (GO:0000022)	1/8	7.973357e-03	1.856809e-02	0	0	1.501729e+02	7.255830e+02	AURKB
+GO_Biological_Process_2021	mitotic spindle midzone assembly (GO:0051256)	1/8	7.973357e-03	1.856809e-02	0	0	1.501729e+02	7.255830e+02	AURKB
+GO_Biological_Process_2021	negative regulation of mitotic nuclear division (GO:0045839)	1/8	7.973357e-03	1.856809e-02	0	0	1.501729e+02	7.255830e+02	CHEK1
+GO_Biological_Process_2021	regulation of protein localization to cell cortex (GO:1904776)	1/8	7.973357e-03	1.856809e-02	0	0	1.501729e+02	7.255830e+02	PLK1
+GO_Biological_Process_2021	regulation of cellular component organization (GO:0051128)	2/139	8.394293e-03	1.941537e-02	0	0	1.609327e+01	7.692909e+01	MKI67;AURKA
+GO_Biological_Process_2021	tetrahydrofolate interconversion (GO:0035999)	1/9	8.965773e-03	2.005502e-02	0	0	1.313947e+02	6.194396e+02	TYMS
+GO_Biological_Process_2021	positive regulation of DNA-directed DNA polymerase activity (GO:1900264)	1/9	8.965773e-03	2.005502e-02	0	0	1.313947e+02	6.194396e+02	PCNA
+GO_Biological_Process_2021	positive regulation of synapse maturation (GO:0090129)	1/9	8.965773e-03	2.005502e-02	0	0	1.313947e+02	6.194396e+02	CDC20
+GO_Biological_Process_2021	DNA topological change (GO:0006265)	1/9	8.965773e-03	2.005502e-02	0	0	1.313947e+02	6.194396e+02	TOP2A
+GO_Biological_Process_2021	regulation of DNA-directed DNA polymerase activity (GO:1900262)	1/9	8.965773e-03	2.005502e-02	0	0	1.313947e+02	6.194396e+02	PCNA
+GO_Biological_Process_2021	regulation of attachment of spindle microtubules to kinetochore (GO:0051988)	1/10	9.957248e-03	2.198353e-02	0	0	1.167895e+02	5.383358e+02	CCNB1
+GO_Biological_Process_2021	negative regulation of lymphocyte apoptotic process (GO:0070229)	1/10	9.957248e-03	2.198353e-02	0	0	1.167895e+02	5.383358e+02	AURKB
+GO_Biological_Process_2021	regulation of histone H3-K9 acetylation (GO:2000615)	1/11	1.094778e-02	2.326403e-02	0	0	1.051053e+02	4.745102e+02	CHEK1
+GO_Biological_Process_2021	regulation of synapse maturation (GO:0090128)	1/11	1.094778e-02	2.326403e-02	0	0	1.051053e+02	4.745102e+02	CDC20
+GO_Biological_Process_2021	chromatin-mediated maintenance of transcription (GO:0048096)	1/11	1.094778e-02	2.326403e-02	0	0	1.051053e+02	4.745102e+02	CHEK1
+GO_Biological_Process_2021	tetrahydrofolate metabolic process (GO:0046653)	1/11	1.094778e-02	2.326403e-02	0	0	1.051053e+02	4.745102e+02	TYMS
+GO_Biological_Process_2021	Golgi inheritance (GO:0048313)	1/11	1.094778e-02	2.326403e-02	0	0	1.051053e+02	4.745102e+02	CDK1
+GO_Biological_Process_2021	negative regulation of nuclear division (GO:0051784)	1/11	1.094778e-02	2.326403e-02	0	0	1.051053e+02	4.745102e+02	CHEK1
+GO_Biological_Process_2021	negative regulation of apoptotic process (GO:0043066)	3/485	1.188612e-02	2.459822e-02	0	0	7.138638e+00	3.164119e+01	PLK1;CDK1;BIRC5
+GO_Biological_Process_2021	exit from mitosis (GO:0010458)	1/12	1.193737e-02	2.459822e-02	0	0	9.554545e+01	4.230831e+02	UBE2C
+GO_Biological_Process_2021	negative regulation of cell division (GO:0051782)	1/12	1.193737e-02	2.459822e-02	0	0	9.554545e+01	4.230831e+02	AURKB
+GO_Biological_Process_2021	attachment of mitotic spindle microtubules to kinetochore (GO:0051315)	1/12	1.193737e-02	2.459822e-02	0	0	9.554545e+01	4.230831e+02	KIF2C
+GO_Biological_Process_2021	regulation of B cell apoptotic process (GO:0002902)	1/12	1.193737e-02	2.459822e-02	0	0	9.554545e+01	4.230831e+02	AURKB
+GO_Biological_Process_2021	cellular protein-containing complex assembly (GO:0034622)	2/168	1.206706e-02	2.471566e-02	0	0	1.326238e+01	5.858360e+01	CENPF;CENPA
+GO_Biological_Process_2021	chromatin organization involved in regulation of transcription (GO:0034401)	1/13	1.292602e-02	2.600501e-02	0	0	8.757895e+01	3.808382e+02	CHEK1
+GO_Biological_Process_2021	regulation of mitotic cell cycle spindle assembly checkpoint (GO:0090266)	1/13	1.292602e-02	2.600501e-02	0	0	8.757895e+01	3.808382e+02	CCNB1
+GO_Biological_Process_2021	mitotic DNA integrity checkpoint signaling (GO:0044774)	1/13	1.292602e-02	2.600501e-02	0	0	8.757895e+01	3.808382e+02	CHEK2
+GO_Biological_Process_2021	negative regulation of transcription, DNA-templated (GO:0045892)	4/948	1.323289e-02	2.646579e-02	0	0	5.041314e+00	2.180393e+01	CENPF;PLK1;BIRC5;AURKB
+GO_Biological_Process_2021	positive regulation of developmental process (GO:0051094)	2/177	1.332697e-02	2.649806e-02	0	0	1.257460e+01	5.429670e+01	CDC20;AURKA
+GO_Biological_Process_2021	covalent chromatin modification (GO:0016569)	1/14	1.391373e-02	2.734491e-02	0	0	8.083806e+01	3.455729e+02	AURKB
+GO_Biological_Process_2021	regulation of chromatin organization (GO:1902275)	1/14	1.391373e-02	2.734491e-02	0	0	8.083806e+01	3.455729e+02	MKI67
+GO_Biological_Process_2021	protein ubiquitination (GO:0016567)	3/525	1.470446e-02	2.873286e-02	0	0	6.578093e+00	2.775695e+01	PCNA;UBE2C;PLK1
+GO_Biological_Process_2021	mitotic intra-S DNA damage checkpoint signaling (GO:0031573)	1/15	1.490050e-02	2.894955e-02	0	0	7.506015e+01	3.157300e+02	CHEK2
+GO_Biological_Process_2021	resolution of meiotic recombination intermediates (GO:0000712)	1/16	1.588634e-02	3.051613e-02	0	0	7.005263e+01	2.901787e+02	TOP2A
+GO_Biological_Process_2021	response to organophosphorus (GO:0046683)	1/16	1.588634e-02	3.051613e-02	0	0	7.005263e+01	2.901787e+02	TYMS
+GO_Biological_Process_2021	negative regulation of cellular macromolecule biosynthetic process (GO:2000113)	3/547	1.640431e-02	3.133408e-02	0	0	6.304931e+00	2.591460e+01	CENPF;BIRC5;TYMS
+GO_Biological_Process_2021	positive regulation of DNA replication (GO:0045740)	1/17	1.687123e-02	3.151769e-02	0	0	6.567105e+01	2.680788e+02	PCNA
+GO_Biological_Process_2021	positive regulation of telomere capping (GO:1904355)	1/17	1.687123e-02	3.151769e-02	0	0	6.567105e+01	2.680788e+02	AURKB
+GO_Biological_Process_2021	midbody abscission (GO:0061952)	1/17	1.687123e-02	3.151769e-02	0	0	6.567105e+01	2.680788e+02	KIF20A
+GO_Biological_Process_2021	DNA biosynthetic process (GO:0071897)	1/17	1.687123e-02	3.151769e-02	0	0	6.567105e+01	2.680788e+02	TYMS
+GO_Biological_Process_2021	regulation of single stranded viral RNA replication via double stranded DNA intermediate (GO:0045091)	1/18	1.785520e-02	3.246399e-02	0	0	6.180495e+01	2.487934e+02	TOP2A
+GO_Biological_Process_2021	microtubule depolymerization (GO:0007019)	1/18	1.785520e-02	3.246399e-02	0	0	6.180495e+01	2.487934e+02	KIF2C
+GO_Biological_Process_2021	regulation of catabolic process (GO:0009894)	1/18	1.785520e-02	3.246399e-02	0	0	6.180495e+01	2.487934e+02	CHEK2
+GO_Biological_Process_2021	DNA conformation change (GO:0071103)	1/18	1.785520e-02	3.246399e-02	0	0	6.180495e+01	2.487934e+02	TOP2A
+GO_Biological_Process_2021	DNA strand elongation involved in DNA replication (GO:0006271)	1/18	1.785520e-02	3.246399e-02	0	0	6.180495e+01	2.487934e+02	PCNA
+GO_Biological_Process_2021	nuclear membrane organization (GO:0071763)	1/19	1.883822e-02	3.371050e-02	0	0	5.836842e+01	2.318316e+02	PLK1
+GO_Biological_Process_2021	regulation of mitotic spindle assembly (GO:1901673)	1/19	1.883822e-02	3.371050e-02	0	0	5.836842e+01	2.318316e+02	PLK1
+GO_Biological_Process_2021	positive regulation of mitochondrial fission (GO:0090141)	1/19	1.883822e-02	3.371050e-02	0	0	5.836842e+01	2.318316e+02	AURKA
+GO_Biological_Process_2021	negative regulation of cyclin-dependent protein serine/threonine kinase activity (GO:0045736)	1/20	1.982031e-02	3.455849e-02	0	0	5.529363e+01	2.168090e+02	PLK1
+GO_Biological_Process_2021	nucleobase-containing compound biosynthetic process (GO:0034654)	1/20	1.982031e-02	3.455849e-02	0	0	5.529363e+01	2.168090e+02	TYMS
+GO_Biological_Process_2021	mitotic cytokinetic process (GO:1902410)	1/20	1.982031e-02	3.455849e-02	0	0	5.529363e+01	2.168090e+02	KIF20A
+GO_Biological_Process_2021	regulation of nuclear division (GO:0051783)	1/20	1.982031e-02	3.455849e-02	0	0	5.529363e+01	2.168090e+02	MKI67
+GO_Biological_Process_2021	regulation of protein localization to cell periphery (GO:1904375)	1/20	1.982031e-02	3.455849e-02	0	0	5.529363e+01	2.168090e+02	PLK1
+GO_Biological_Process_2021	error-prone translesion synthesis (GO:0042276)	1/21	2.080147e-02	3.590101e-02	0	0	5.252632e+01	2.034203e+02	PCNA
+GO_Biological_Process_2021	protein localization to chromatin (GO:0071168)	1/21	2.080147e-02	3.590101e-02	0	0	5.252632e+01	2.034203e+02	PLK1
+GO_Biological_Process_2021	error-free translesion synthesis (GO:0070987)	1/22	2.178169e-02	3.702888e-02	0	0	5.002256e+01	1.914206e+02	PCNA
+GO_Biological_Process_2021	negative regulation of cyclin-dependent protein kinase activity (GO:1904030)	1/22	2.178169e-02	3.702888e-02	0	0	5.002256e+01	1.914206e+02	PLK1
+GO_Biological_Process_2021	regulation of centrosome cycle (GO:0046605)	1/22	2.178169e-02	3.702888e-02	0	0	5.002256e+01	1.914206e+02	AURKA
+GO_Biological_Process_2021	ERK1 and ERK2 cascade (GO:0070371)	1/23	2.276098e-02	3.831057e-02	0	0	4.774641e+01	1.806107e+02	CDK1
+GO_Biological_Process_2021	regulation of telomere capping (GO:1904353)	1/23	2.276098e-02	3.831057e-02	0	0	4.774641e+01	1.806107e+02	AURKB
+GO_Biological_Process_2021	apoptotic nuclear changes (GO:0030262)	1/24	2.373934e-02	3.956557e-02	0	0	4.566819e+01	1.708274e+02	TOP2A
+GO_Biological_Process_2021	nucleotide-excision repair, DNA gap filling (GO:0006297)	1/24	2.373934e-02	3.956557e-02	0	0	4.566819e+01	1.708274e+02	PCNA
+GO_Biological_Process_2021	positive regulation of peptidyl-threonine phosphorylation (GO:0010800)	1/25	2.471677e-02	4.059760e-02	0	0	4.376316e+01	1.619356e+02	PLK1
+GO_Biological_Process_2021	regulation of spindle assembly (GO:0090169)	1/25	2.471677e-02	4.059760e-02	0	0	4.376316e+01	1.619356e+02	PLK1
+GO_Biological_Process_2021	regulation of mitochondrial fission (GO:0090140)	1/25	2.471677e-02	4.059760e-02	0	0	4.376316e+01	1.619356e+02	AURKA
+GO_Biological_Process_2021	positive regulation of nuclear division (GO:0051785)	1/27	2.666885e-02	4.297350e-02	0	0	4.039271e+01	1.463937e+02	AURKA
+GO_Biological_Process_2021	nucleobase-containing small molecule interconversion (GO:0015949)	1/27	2.666885e-02	4.297350e-02	0	0	4.039271e+01	1.463937e+02	TYMS
+GO_Biological_Process_2021	microtubule polymerization or depolymerization (GO:0031109)	1/27	2.666885e-02	4.297350e-02	0	0	4.039271e+01	1.463937e+02	KIF2C
+GO_Biological_Process_2021	positive regulation of mitotic cell cycle (GO:0045931)	1/27	2.666885e-02	4.297350e-02	0	0	4.039271e+01	1.463937e+02	CCNB1
+GO_Biological_Process_2021	regulation of multicellular organismal development (GO:2000026)	1/28	2.764349e-02	4.412576e-02	0	0	3.889474e+01	1.395685e+02	CDK1
+GO_Biological_Process_2021	protein depolymerization (GO:0051261)	1/28	2.764349e-02	4.412576e-02	0	0	3.889474e+01	1.395685e+02	KIF2C
+GO_Biological_Process_2021	regulation of ubiquitin-protein transferase activity (GO:0051438)	1/29	2.861721e-02	4.483802e-02	0	0	3.750376e+01	1.332789e+02	PLK1
+GO_Biological_Process_2021	mismatch repair (GO:0006298)	1/29	2.861721e-02	4.483802e-02	0	0	3.750376e+01	1.332789e+02	PCNA
+GO_Biological_Process_2021	positive regulation of viral genome replication (GO:0045070)	1/29	2.861721e-02	4.483802e-02	0	0	3.750376e+01	1.332789e+02	TOP2A
+GO_Biological_Process_2021	protein K11-linked ubiquitination (GO:0070979)	1/29	2.861721e-02	4.483802e-02	0	0	3.750376e+01	1.332789e+02	UBE2C
+GO_Biological_Process_2021	protein deubiquitination (GO:0016579)	2/267	2.879936e-02	4.491644e-02	0	0	8.266247e+00	2.932370e+01	CDC20;CDK1
+GO_Biological_Process_2021	CENP-A containing chromatin organization (GO:0061641)	1/30	2.959000e-02	4.552307e-02	0	0	3.620871e+01	1.274662e+02	CENPA
+GO_Biological_Process_2021	CENP-A containing nucleosome assembly (GO:0034080)	1/30	2.959000e-02	4.552307e-02	0	0	3.620871e+01	1.274662e+02	CENPA
+GO_Biological_Process_2021	plasma membrane invagination (GO:0099024)	1/30	2.959000e-02	4.552307e-02	0	0	3.620871e+01	1.274662e+02	AURKB
+GO_Biological_Process_2021	protein modification by small protein removal (GO:0070646)	2/276	3.061337e-02	4.688534e-02	0	0	7.991079e+00	2.785945e+01	CDC20;CDK1
+GO_Biological_Process_2021	liver development (GO:0001889)	1/32	3.153280e-02	4.764956e-02	0	0	3.386927e+01	1.170768e+02	AURKA
+GO_Biological_Process_2021	chromatin remodeling at centromere (GO:0031055)	1/32	3.153280e-02	4.764956e-02	0	0	3.386927e+01	1.170768e+02	CENPA
+GO_Biological_Process_2021	positive regulation of telomere maintenance (GO:0032206)	1/32	3.153280e-02	4.764956e-02	0	0	3.386927e+01	1.170768e+02	AURKB
+GO_Biological_Process_2021	regulation of histone acetylation (GO:0035065)	1/33	3.250282e-02	4.868263e-02	0	0	3.280921e+01	1.124184e+02	CHEK1
+GO_Biological_Process_2021	positive regulation of telomere maintenance via telomerase (GO:0032212)	1/33	3.250282e-02	4.868263e-02	0	0	3.280921e+01	1.124184e+02	AURKB
+GO_Biological_Process_2021	positive regulation of telomerase activity (GO:0051973)	1/34	3.347191e-02	4.948021e-02	0	0	3.181340e+01	1.080717e+02	AURKB
+GO_Biological_Process_2021	organelle disassembly (GO:1903008)	1/34	3.347191e-02	4.948021e-02	0	0	3.181340e+01	1.080717e+02	CDK1
+GO_Biological_Process_2021	protein destabilization (GO:0031648)	1/34	3.347191e-02	4.948021e-02	0	0	3.181340e+01	1.080717e+02	PLK1
+GO_Biological_Process_2021	base-excision repair, gap-filling (GO:0006287)	1/35	3.444008e-02	5.047253e-02	0	0	3.087616e+01	1.040074e+02	PCNA
+GO_Biological_Process_2021	regulation of mitotic spindle organization (GO:0060236)	1/35	3.444008e-02	5.047253e-02	0	0	3.087616e+01	1.040074e+02	PLK1
+GO_Biological_Process_2021	regulation of microtubule-based process (GO:0032886)	1/36	3.540733e-02	5.101056e-02	0	0	2.999248e+01	1.002000e+02	AURKA
+GO_Biological_Process_2021	positive regulation of telomere maintenance via telomere lengthening (GO:1904358)	1/36	3.540733e-02	5.101056e-02	0	0	2.999248e+01	1.002000e+02	AURKB
+GO_Biological_Process_2021	regulation of embryonic development (GO:0045995)	1/36	3.540733e-02	5.101056e-02	0	0	2.999248e+01	1.002000e+02	CDK1
+GO_Biological_Process_2021	positive regulation of mitotic nuclear division (GO:0045840)	1/36	3.540733e-02	5.101056e-02	0	0	2.999248e+01	1.002000e+02	AURKA
+GO_Biological_Process_2021	positive regulation of cytokinesis (GO:0032467)	1/37	3.637366e-02	5.196237e-02	0	0	2.915789e+01	9.662665e+01	AURKB
+GO_Biological_Process_2021	nucleotide-excision repair, DNA incision, 5'-to lesion (GO:0006296)	1/37	3.637366e-02	5.196237e-02	0	0	2.915789e+01	9.662665e+01	PCNA
+GO_Biological_Process_2021	negative regulation of G0 to G1 transition (GO:0070317)	1/38	3.733907e-02	5.289701e-02	0	0	2.836842e+01	9.326729e+01	CHEK1
+GO_Biological_Process_2021	histone exchange (GO:0043486)	1/38	3.733907e-02	5.289701e-02	0	0	2.836842e+01	9.326729e+01	CENPA
+GO_Biological_Process_2021	replication fork processing (GO:0031297)	1/39	3.830356e-02	5.337381e-02	0	0	2.762050e+01	9.010393e+01	PCNA
+GO_Biological_Process_2021	nucleotide-excision repair, DNA incision (GO:0033683)	1/39	3.830356e-02	5.337381e-02	0	0	2.762050e+01	9.010393e+01	PCNA
+GO_Biological_Process_2021	DNA replication-independent nucleosome assembly (GO:0006336)	1/39	3.830356e-02	5.337381e-02	0	0	2.762050e+01	9.010393e+01	CENPA
+GO_Biological_Process_2021	regulation of peptidyl-threonine phosphorylation (GO:0010799)	1/39	3.830356e-02	5.337381e-02	0	0	2.762050e+01	9.010393e+01	PLK1
+GO_Biological_Process_2021	cilium assembly (GO:0060271)	2/314	3.875743e-02	5.378582e-02	0	0	7.004274e+00	2.276692e+01	PLK1;CDK1
+GO_Biological_Process_2021	regulation of G0 to G1 transition (GO:0070316)	1/41	4.022979e-02	5.560215e-02	0	0	2.623684e+01	8.430285e+01	CHEK1
+GO_Biological_Process_2021	negative regulation of gene expression (GO:0010629)	2/322	4.056797e-02	5.584254e-02	0	0	6.826389e+00	2.187705e+01	TYMS;AURKA
+GO_Biological_Process_2021	translesion synthesis (GO:0019985)	1/42	4.119153e-02	5.602048e-02	0	0	2.559564e+01	8.163786e+01	PCNA
+GO_Biological_Process_2021	regulation of DNA recombination (GO:0000018)	1/42	4.119153e-02	5.602048e-02	0	0	2.559564e+01	8.163786e+01	CHEK1
+GO_Biological_Process_2021	regulation of double-strand break repair (GO:2000779)	1/42	4.119153e-02	5.602048e-02	0	0	2.559564e+01	8.163786e+01	CHEK1
+GO_Biological_Process_2021	DNA synthesis involved in DNA repair (GO:0000731)	1/43	4.215235e-02	5.687222e-02	0	0	2.498496e+01	7.911400e+01	PCNA
+GO_Biological_Process_2021	DNA-dependent DNA replication maintenance of fidelity (GO:0045005)	1/43	4.215235e-02	5.687222e-02	0	0	2.498496e+01	7.911400e+01	PCNA
+GO_Biological_Process_2021	positive regulation of cell division (GO:0051781)	1/44	4.311226e-02	5.793742e-02	0	0	2.440269e+01	7.672079e+01	AURKB
+GO_Biological_Process_2021	regulation of DNA repair (GO:0006282)	1/45	4.407125e-02	5.899302e-02	0	0	2.384689e+01	7.444874e+01	PCNA
+GO_Biological_Process_2021	regulation of telomerase activity (GO:0051972)	1/46	4.502934e-02	5.957188e-02	0	0	2.331579e+01	7.228923e+01	AURKB
+GO_Biological_Process_2021	postreplication repair (GO:0006301)	1/46	4.502934e-02	5.957188e-02	0	0	2.331579e+01	7.228923e+01	PCNA
+GO_Biological_Process_2021	regulation of double-strand break repair via homologous recombination (GO:0010569)	1/46	4.502934e-02	5.957188e-02	0	0	2.331579e+01	7.228923e+01	CHEK1
+GO_Biological_Process_2021	telomere organization (GO:0032200)	1/47	4.598651e-02	6.060237e-02	0	0	2.280778e+01	7.023444e+01	PCNA
+GO_Biological_Process_2021	positive regulation of DNA repair (GO:0045739)	1/48	4.694276e-02	6.091809e-02	0	0	2.232139e+01	6.827725e+01	PCNA
+GO_Biological_Process_2021	base-excision repair (GO:0006284)	1/48	4.694276e-02	6.091809e-02	0	0	2.232139e+01	6.827725e+01	PCNA
+GO_Biological_Process_2021	negative regulation of mitotic cell cycle (GO:0045930)	1/48	4.694276e-02	6.091809e-02	0	0	2.232139e+01	6.827725e+01	CHEK1
+GO_Biological_Process_2021	regulation of protein metabolic process (GO:0051246)	1/48	4.694276e-02	6.091809e-02	0	0	2.232139e+01	6.827725e+01	CHEK2
+GO_Biological_Process_2021	cellular response to mechanical stimulus (GO:0071260)	1/49	4.789811e-02	6.192151e-02	0	0	2.185526e+01	6.641113e+01	CHEK1
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway in response to DNA damage (GO:0008630)	1/51	4.980608e-02	6.414419e-02	0	0	2.097895e+01	6.292883e+01	CHEK2
+GO_Biological_Process_2021	regulation of telomere maintenance via telomerase (GO:0032210)	1/52	5.075870e-02	6.512437e-02	0	0	2.056656e+01	6.130219e+01	AURKB
+GO_Biological_Process_2021	regulation of DNA replication (GO:0006275)	1/53	5.171041e-02	6.584847e-02	0	0	2.017004e+01	5.974560e+01	PCNA
+GO_Biological_Process_2021	cellular macromolecule catabolic process (GO:0044265)	1/53	5.171041e-02	6.584847e-02	0	0	2.017004e+01	5.974560e+01	CHEK2
+GO_Biological_Process_2021	regulation of proteolysis (GO:0030162)	1/54	5.266122e-02	6.680901e-02	0	0	1.978848e+01	5.825483e+01	PLK1
+GO_Biological_Process_2021	positive regulation of response to DNA damage stimulus (GO:2001022)	1/55	5.361112e-02	6.776127e-02	0	0	1.942105e+01	5.682598e+01	PCNA
+GO_Biological_Process_2021	telomere maintenance (GO:0000723)	1/56	5.456012e-02	6.862833e-02	0	0	1.906699e+01	5.545541e+01	PCNA
+GO_Biological_Process_2021	negative regulation of cell cycle G2/M phase transition (GO:1902750)	1/57	5.550821e-02	6.862833e-02	0	0	1.872556e+01	5.413981e+01	AURKA
+GO_Biological_Process_2021	positive regulation of proteolysis (GO:0045862)	1/57	5.550821e-02	6.862833e-02	0	0	1.872556e+01	5.413981e+01	PLK1
+GO_Biological_Process_2021	renal system development (GO:0072001)	1/57	5.550821e-02	6.862833e-02	0	0	1.872556e+01	5.413981e+01	CENPF
+GO_Biological_Process_2021	positive regulation of gene expression, epigenetic (GO:0045815)	1/57	5.550821e-02	6.862833e-02	0	0	1.872556e+01	5.413981e+01	CHEK1
+GO_Biological_Process_2021	protein K48-linked ubiquitination (GO:0070936)	1/57	5.550821e-02	6.862833e-02	0	0	1.872556e+01	5.413981e+01	UBE2C
+GO_Biological_Process_2021	positive regulation of mitochondrion organization (GO:0010822)	1/58	5.645540e-02	6.954651e-02	0	0	1.839612e+01	5.287605e+01	AURKA
+GO_Biological_Process_2021	protein polymerization (GO:0051258)	1/59	5.740169e-02	7.045694e-02	0	0	1.807804e+01	5.166128e+01	UBE2C
+GO_Biological_Process_2021	cellular protein catabolic process (GO:0044257)	1/60	5.834707e-02	7.135973e-02	0	0	1.777074e+01	5.049282e+01	CHEK2
+GO_Biological_Process_2021	positive regulation of DNA metabolic process (GO:0051054)	1/63	6.117783e-02	7.455362e-02	0	0	1.690832e+01	4.724134e+01	PCNA
+GO_Biological_Process_2021	protein catabolic process (GO:0030163)	1/64	6.211961e-02	7.543096e-02	0	0	1.663910e+01	4.623495e+01	CHEK2
+GO_Biological_Process_2021	regulation of transcription, DNA-templated (GO:0006355)	5/2244	6.536932e-02	7.909455e-02	0	0	2.641209e+00	7.204431e+00	CENPF;PCNA;CHEK2;BIRC5;TYMS
+GO_Biological_Process_2021	organelle assembly (GO:0070925)	2/425	6.654853e-02	8.023582e-02	0	0	5.137116e+00	1.392068e+01	CENPF;CENPA
+GO_Biological_Process_2021	kidney development (GO:0001822)	1/70	6.775151e-02	8.139758e-02	0	0	1.518764e+01	4.088375e+01	CENPF
+GO_Biological_Process_2021	transcription-coupled nucleotide-excision repair (GO:0006283)	1/73	7.055540e-02	8.446773e-02	0	0	1.455263e+01	3.858422e+01	PCNA
+GO_Biological_Process_2021	nucleic acid phosphodiester bond hydrolysis (GO:0090305)	1/75	7.242021e-02	8.639604e-02	0	0	1.415789e+01	3.716830e+01	PCNA
+GO_Biological_Process_2021	negative regulation of protein serine/threonine kinase activity (GO:0071901)	1/78	7.521075e-02	8.941138e-02	0	0	1.360424e+01	3.520044e+01	PLK1
+GO_Biological_Process_2021	positive regulation of ubiquitin-dependent protein catabolic process (GO:2000060)	1/79	7.613916e-02	9.019970e-02	0	0	1.342915e+01	3.458265e+01	PLK1
+GO_Biological_Process_2021	negative regulation of cell cycle (GO:0045786)	1/80	7.706668e-02	9.098150e-02	0	0	1.325849e+01	3.398264e+01	PLK1
+GO_Biological_Process_2021	negative regulation of nucleic acid-templated transcription (GO:1903507)	2/464	7.753624e-02	9.121910e-02	0	0	4.694084e+00	1.200282e+01	CENPF;BIRC5
+GO_Biological_Process_2021	positive regulation of protein ubiquitination (GO:0031398)	1/82	7.891908e-02	9.252581e-02	0	0	1.292982e+01	3.283312e+01	PLK1
+GO_Biological_Process_2021	negative regulation of cellular amide metabolic process (GO:0034249)	1/86	8.261327e-02	9.619353e-02	0	0	1.231889e+01	3.071819e+01	TYMS
+GO_Biological_Process_2021	positive regulation of proteasomal protein catabolic process (GO:1901800)	1/86	8.261327e-02	9.619353e-02	0	0	1.231889e+01	3.071819e+01	PLK1
+GO_Biological_Process_2021	regulation of transcription from RNA polymerase II promoter in response to stress (GO:0043618)	1/87	8.353462e-02	9.693437e-02	0	0	1.217503e+01	3.022444e+01	CHEK1
+GO_Biological_Process_2021	sensory perception of mechanical stimulus (GO:0050954)	1/88	8.445508e-02	9.766914e-02	0	0	1.203448e+01	2.974365e+01	BIRC5
+GO_Biological_Process_2021	negative regulation of translation (GO:0017148)	1/90	8.629339e-02	9.945678e-02	0	0	1.176286e+01	2.881904e+01	TYMS
+GO_Biological_Process_2021	sensory perception of sound (GO:0007605)	1/91	8.721122e-02	1.001751e-01	0	0	1.163158e+01	2.837433e+01	BIRC5
+GO_Biological_Process_2021	negative regulation of mitotic cell cycle phase transition (GO:1901991)	1/92	8.812818e-02	1.008875e-01	0	0	1.150318e+01	2.794080e+01	AURKA
+GO_Biological_Process_2021	negative regulation of cellular protein metabolic process (GO:0032269)	1/94	8.995947e-02	1.026383e-01	0	0	1.125467e+01	2.710570e+01	TYMS
+GO_Biological_Process_2021	intrinsic apoptotic signaling pathway (GO:0097193)	1/102	9.724977e-02	1.094865e-01	0	0	1.035904e+01	2.414146e+01	CHEK2
+GO_Biological_Process_2021	positive regulation of cellular protein metabolic process (GO:0032270)	1/102	9.724977e-02	1.094865e-01	0	0	1.035904e+01	2.414146e+01	PLK1
+GO_Biological_Process_2021	regulation of proteasomal ubiquitin-dependent protein catabolic process (GO:0032434)	1/102	9.724977e-02	1.094865e-01	0	0	1.035904e+01	2.414146e+01	PLK1
+GO_Biological_Process_2021	regulation of protein catabolic process (GO:0042176)	1/102	9.724977e-02	1.094865e-01	0	0	1.035904e+01	2.414146e+01	CHEK2
+GO_Biological_Process_2021	nucleotide-excision repair (GO:0006289)	1/105	9.996930e-02	1.121768e-01	0	0	1.005870e+01	2.316411e+01	PCNA
+GO_Biological_Process_2021	chromosome organization (GO:0051276)	1/106	1.008741e-01	1.124498e-01	0	0	9.962406e+00	2.285259e+01	TOP2A
+GO_Biological_Process_2021	protein localization to nucleus (GO:0034504)	1/106	1.008741e-01	1.124498e-01	0	0	9.962406e+00	2.285259e+01	PLK1
+GO_Biological_Process_2021	positive regulation of cellular component organization (GO:0051130)	1/114	1.080813e-01	1.196991e-01	0	0	9.253377e+00	2.058758e+01	CDC20
+GO_Biological_Process_2021	histone modification (GO:0016570)	1/114	1.080813e-01	1.196991e-01	0	0	9.253377e+00	2.058758e+01	AURKB
+GO_Biological_Process_2021	positive regulation of macromolecule biosynthetic process (GO:0010557)	1/129	1.214471e-01	1.340650e-01	0	0	8.162829e+00	1.720950e+01	PCNA
+GO_Biological_Process_2021	Golgi organization (GO:0007030)	1/130	1.223313e-01	1.346041e-01	0	0	8.099143e+00	1.701648e+01	CDK1
+GO_Biological_Process_2021	organic substance transport (GO:0071702)	1/136	1.276191e-01	1.399694e-01	0	0	7.736842e+00	1.592787e+01	CENPF
+GO_Biological_Process_2021	positive regulation of cellular process (GO:0048522)	2/625	1.280793e-01	1.400224e-01	0	0	3.452292e+00	7.094824e+00	CHEK1;BIRC5
+GO_Biological_Process_2021	nitrogen compound transport (GO:0071705)	1/143	1.337500e-01	1.457532e-01	0	0	7.352854e+00	1.479235e+01	CENPF
+GO_Biological_Process_2021	brain development (GO:0007420)	1/150	1.398399e-01	1.519028e-01	0	0	7.004945e+00	1.378053e+01	CENPF
+GO_Biological_Process_2021	negative regulation of transcription by RNA polymerase II (GO:0000122)	2/684	1.482357e-01	1.605100e-01	0	0	3.144021e+00	6.001784e+00	PLK1;AURKB
+GO_Biological_Process_2021	double-strand break repair (GO:0006302)	1/164	1.518979e-01	1.639533e-01	0	0	6.398773e+00	1.205879e+01	CHEK2
+GO_Biological_Process_2021	regulation of translation (GO:0006417)	1/178	1.637952e-01	1.762353e-01	0	0	5.888492e+00	1.065310e+01	TYMS
+GO_Biological_Process_2021	protein stabilization (GO:0050821)	1/179	1.646389e-01	1.765843e-01	0	0	5.855115e+00	1.056263e+01	CHEK2
+GO_Biological_Process_2021	positive regulation of cellular biosynthetic process (GO:0031328)	1/180	1.654818e-01	1.769303e-01	0	0	5.822111e+00	1.047336e+01	PCNA
+GO_Biological_Process_2021	regulation of transcription by RNA polymerase II (GO:0006357)	4/2206	1.720616e-01	1.833885e-01	0	0	2.018392e+00	3.552175e+00	CCNB1;PLK1;CDK1;AURKB
+GO_Biological_Process_2021	negative regulation of macromolecule metabolic process (GO:0010605)	1/194	1.771980e-01	1.876863e-01	0	0	5.395964e+00	9.337649e+00	AURKA
+GO_Biological_Process_2021	regulation of programmed cell death (GO:0043067)	1/194	1.771980e-01	1.876863e-01	0	0	5.395964e+00	9.337649e+00	BIRC5
+GO_Biological_Process_2021	apoptotic process (GO:0006915)	1/231	2.074145e-01	2.190091e-01	0	0	4.519451e+00	7.109259e+00	CHEK1
+GO_Biological_Process_2021	membrane organization (GO:0061024)	1/242	2.161926e-01	2.275711e-01	0	0	4.310767e+00	6.602309e+00	KIF20A
+GO_Biological_Process_2021	positive regulation of programmed cell death (GO:0043068)	1/286	2.503898e-01	2.627547e-01	0	0	3.637119e+00	5.036452e+00	TOP2A
+GO_Biological_Process_2021	MAPK cascade (GO:0000165)	1/303	2.632188e-01	2.753673e-01	0	0	3.429418e+00	4.577483e+00	CDK1
+GO_Biological_Process_2021	positive regulation of apoptotic process (GO:0043065)	1/310	2.684404e-01	2.799685e-01	0	0	3.350537e+00	4.406379e+00	TOP2A
+GO_Biological_Process_2021	protein polyubiquitination (GO:0000209)	1/314	2.714084e-01	2.821984e-01	0	0	3.307046e+00	4.312819e+00	UBE2C
+GO_Biological_Process_2021	regulation of gene expression (GO:0010468)	2/1079	2.940060e-01	3.047624e-01	0	0	1.950170e+00	2.387311e+00	CHEK2;AURKA
+GO_Biological_Process_2021	supramolecular fiber organization (GO:0097435)	1/351	2.983255e-01	3.082999e-01	0	0	2.951880e+00	3.570506e+00	KIF2C
+GO_Biological_Process_2021	protein transport (GO:0015031)	1/369	3.110761e-01	3.205026e-01	0	0	2.804920e+00	3.275355e+00	CENPF
+GO_Biological_Process_2021	positive regulation of protein phosphorylation (GO:0001934)	1/371	3.124791e-01	3.209755e-01	0	0	2.789474e+00	3.244765e+00	PLK1
+GO_Biological_Process_2021	positive regulation of transcription, DNA-templated (GO:0045893)	2/1183	3.331985e-01	3.412274e-01	0	0	1.768652e+00	1.943778e+00	CHEK2;CHEK1
+GO_Biological_Process_2021	cellular protein metabolic process (GO:0044267)	1/417	3.440103e-01	3.512418e-01	0	0	2.475202e+00	2.641248e+00	CHEK2
+GO_Biological_Process_2021	regulation of nucleic acid-templated transcription (GO:1903506)	1/430	3.526692e-01	3.590046e-01	0	0	2.398601e+00	2.499882e+00	CHEK2
+GO_Biological_Process_2021	regulation of cellular macromolecule biosynthetic process (GO:2000112)	1/468	3.773616e-01	3.829939e-01	0	0	2.199143e+00	2.143178e+00	CHEK2
+GO_Biological_Process_2021	positive regulation of cell population proliferation (GO:0008284)	1/474	3.811777e-01	3.857155e-01	0	0	2.170580e+00	2.093502e+00	BIRC5
+GO_Biological_Process_2021	cellular response to cytokine stimulus (GO:0071345)	1/482	3.862312e-01	3.896695e-01	0	0	2.133603e+00	2.029738e+00	BIRC5
+GO_Biological_Process_2021	positive regulation of nucleic acid-templated transcription (GO:1903508)	1/511	4.042235e-01	4.066153e-01	0	0	2.009288e+00	1.819988e+00	CHEK2
+GO_Biological_Process_2021	cytokine-mediated signaling pathway (GO:0019221)	1/621	4.680197e-01	4.694003e-01	0	0	1.643463e+00	1.247791e+00	BIRC5
+GO_Biological_Process_2021	regulation of cell population proliferation (GO:0042127)	1/764	5.412964e-01	5.412964e-01	0	0	1.325585e+00	8.136283e-01	BIRC5
